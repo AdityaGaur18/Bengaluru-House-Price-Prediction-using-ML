@@ -15,4 +15,21 @@
 - Model training (Linear Regression, Decision Tree, Random Forest)
 - Model evaluation (R² Score, MAE, MSE)
 - Exploratory Data Analysis with visualizations
+
+## 🧠 ML Algorithms Used
+
+- Linear Regression
+- Decision Tree Regressor
+- Random Forest Regressor
+
+## 📈 Evaluation Metrics
+
+- R² Score
+- Mean Absolute Error (MAE)
+- Mean Squared Error (MSE)
+
+## 🔧 Tech Stack
+
+- Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
+- Jupyter Notebook
  
